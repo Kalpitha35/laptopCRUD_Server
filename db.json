@@ -1,0 +1,44 @@
+{
+  "productDetails": [
+    {
+      "id": "be25",
+      "productName": "HP 15 Core i5 13th Gen",
+      "brand": "HP",
+      "category": "Laptop",
+      "price": "55000",
+      "url": "https://m.media-amazon.com/images/I/61v1dQcx1HL._SX679_.jpg"
+    },
+    {
+      "id": "c052",
+      "productName": "Dell 15 Laptop, 13th Gen Intel Core i5",
+      "brand": "Dell",
+      "category": "Laptop",
+      "price": "48800",
+      "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQkgkTJbXKwFZuj8OPc5nbzAUj1hhOOV3wInMkRTvv6tBsa_GSq9J8XqBncMHcgiM-RhetxNKdms6Rj5SILf4blAHM09UfQSAnpHcRTzmeCcQtiOMolrIpe&usqp=CAE"
+    },
+    {
+      "id": "63a6",
+      "productName": "Lenovo [Smart Choice Ideapad Gaming 3 Laptop]",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "price": "58000",
+      "url": "https://m.media-amazon.com/images/I/81rSur88g3L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "c3e8",
+      "productName": "ASUS Vivo AiO V222, 4 core Intel Pentium Silver ",
+      "brand": "ASUS",
+      "category": "Computer",
+      "price": "32990",
+      "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQz4lOaGNq7FHISea7NWkqTjw8IzYfnxkM8ytXwlwrpYHJEeS1Sr7wSNmzBoG6CIt1BJ_Xm-zxPr9nZKYDBvPsxyLJXdXYKiqCV0-8L57oEuJjruubDFxqR3w&usqp=CAE"
+    },
+    {
+      "id": "aae2",
+      "productName": "Intel Core i5 Complete Desktop ",
+      "brand": "Intel ",
+      "category": "Computer",
+      "price": "22000",
+      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3oRuEnGLEBCTklK2ap7RSkRxIdgQKm_qec6MD5MPUVM09FDYJAh3XHHa7Xw0oWPDF8XD1OGDtlMLTQUTbrP5RXdDmggPdT8caNpISq2bxSiv1V1ccX5BQHg&usqp=CAE"
+    }
+  ]
+}
